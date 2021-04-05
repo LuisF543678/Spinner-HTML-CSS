@@ -31,8 +31,8 @@
     height: 100%;
     border-radius: 50%;
     animation-duration: 1s;
-    border-left-width: calc(95px / 25);
-    border-top-width: calc(95px / 25);
+    border-left-width: calc(75px / 25);
+    border-top-width: calc(75px / 25);
     border-left-color: #180736;
     border-left-style: solid;
     border-top-style: solid;
